@@ -1,2 +1,2 @@
 # Crypto Challenges
-Implementations for the [matasano crypto challenes](http://cryptopals.com/).
+Implementations for the [matasano crypto challenges](http://cryptopals.com/).
